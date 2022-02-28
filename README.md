@@ -46,15 +46,20 @@ The app will be served at <http://localhost:3000/>
 
 *Main Page*
 
-!['Front-end"](client/projectPhotos/photoOne.png)
+!["Front-end"](client/projectPhotos/photoOne.png)
 
 *Patients List*
 
-!['List-of-patients"](client/projectPhotos/photoTwo.png)
+!["List-of-patients"](client/projectPhotos/photoTwo.png)
 
 *Search By Patients Lastname*	
 
-!['List-of-patients"](client/projectPhotos/photoThree.png)
+!["List-of-patients"](client/projectPhotos/photoThree.png)
+
+*Calendar Dashboard*
+
+!["Calendar dashboard"](client/projectPhotos/photoFour.png)
+
 
 ## Dependencies
 - nodeJS
