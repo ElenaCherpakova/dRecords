@@ -60,6 +60,7 @@ The app will be served at <http://localhost:3000/>
 
 !["Calendar dashboard"](client/projectPhotos/photoFour.png)
 
+!["Calendar dashboard"](client/projectPhotos/photoFive.png)
 
 ## Dependencies
 - nodeJS
