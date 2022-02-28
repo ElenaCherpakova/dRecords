@@ -27,7 +27,7 @@ journey
 	section Patients visits appointment
 		is able to chart & update notes on patient: 2: Practitioner
 		updates database, account logs out: 5: Patient
-
+```
 ## Running the project
 
 You need TWO terminal windows/tabs for this.
