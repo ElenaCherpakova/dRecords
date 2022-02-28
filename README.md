@@ -67,14 +67,15 @@ The app will be served at <http://localhost:3000/>
 !["Patient Profile and Practitioners Notes"](client/projectPhotos/photoSix.png)
 
 ## Dependencies
-- nodeJS
-- expressJS
-- axios
-- react
-- react-router
-- bcrypt
-- mui
-- kalend
-- nodemon
-- cors
+- NodeJS
+- ExpressJS
+- PostgreSQL
+- Axios
+- React
+- React-router
+- Bcrypt
+- Material UI
+- Lalend
+- Nodemon
+- Cors
 
