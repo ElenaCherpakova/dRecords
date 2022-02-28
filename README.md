@@ -45,11 +45,15 @@ The app will be served at <http://localhost:3000/>
 ## Pictures
 
 *Main Page*
+
 !['Front-end"](client/projectPhotos/photoOne.png)
 
 *Patients List*
+
 !['List-of-patients"](client/projectPhotos/photoTwo.png)
+
 *Search By Patients Lastname*	
+
 !['List-of-patients"](client/projectPhotos/photoThree.png)
 
 ## Dependencies
