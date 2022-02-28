@@ -62,6 +62,10 @@ The app will be served at <http://localhost:3000/>
 
 !["Calendar dashboard"](client/projectPhotos/photoFive.png)
 
+*Patient Profile and Practitioners Notes*
+
+!["Patient Profile and Practitioners Notes"](client/projectPhotos/photoSix.png)
+
 ## Dependencies
 - nodeJS
 - expressJS
