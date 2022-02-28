@@ -59,4 +59,3 @@ The app will be served at <http://localhost:3000/>
 - nodemon
 - cors
 
-```
