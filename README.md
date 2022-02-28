@@ -44,6 +44,7 @@ The app will be served at <http://localhost:3000/>
 
 ## Pictures
 
+*Main Page*
 !['Front-end"](client/projectPhotos/photoOne.png)
 
 
