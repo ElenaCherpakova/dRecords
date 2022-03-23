@@ -1,13 +1,13 @@
 # dRecords
 
-**Project Description**
+**Project Description:**
 
 An online charting application allowing healthcare providers to access patient information and schedule follow-up appointments efficiently. The user can keep track of old entries and register new ones upon a change in the patient's condition. An integrated calendar allows the user to plan tasks and keep track of upcoming events.
 
-**Problem Statement**
+**Problem Statement:**
 Currently, there are few universal tools that allow for charting, diagnosis, medical history, and appointment all on one platform, which leads to greater effort on practitioner and time consumption. To solve the inefficiencies there should be a uniform portal allowing for all of these procedures to happen in one place.
 
-**Solution and Product**
+**Solution and Product:**
 Projects’ value proposition is to allow the practitioner to perform all these functions resulting in a greater time savings and convenience, freeing up their time to allow for actual healthcare rather than administrative duties. Now Valentin will demonstrate our application.
 
 **Target audience:** Healthcare providers looking for an effective way of documenting their diagnosis and notes as well as keeping track of patients.
