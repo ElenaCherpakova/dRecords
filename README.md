@@ -76,7 +76,7 @@ The app will be served at <http://localhost:3000/>
 - React-router
 - Bcrypt
 - Material UI
-- Lalend
+- Kalend
 - Nodemon
 - Cors
 
