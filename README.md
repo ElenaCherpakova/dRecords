@@ -8,7 +8,7 @@ An online charting application allowing healthcare providers to access patient i
 Currently, there are few universal tools that allow for charting, diagnosis, medical history, and appointment all on one platform, which leads to greater effort on practitioner and time consumption. To solve the inefficiencies there should be a uniform portal allowing for all of these procedures to happen in one place.
 
 **Solution and Product:**
-Projects’ value proposition is to allow the practitioner to perform all these functions resulting in a greater time savings and convenience, freeing up their time to allow for actual healthcare rather than administrative duties. Now Valentin will demonstrate our application.
+Projects’ value proposition is to allow the practitioner to perform all these functions resulting in a greater time savings and convenience, freeing up their time to allow for actual healthcare rather than administrative duties.
 
 **Target audience:** Healthcare providers looking for an effective way of documenting their diagnosis and notes as well as keeping track of patients.
 
